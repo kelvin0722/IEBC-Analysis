@@ -1,6 +1,6 @@
 # IEBC-Analysis
 ## Getting Started
-Install the latest python version
+Install the latest node version
 ## Prerequisites
 * Node js
 ## Installing
