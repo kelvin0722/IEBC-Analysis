@@ -2,10 +2,10 @@
 ## Getting Started
 Install the latest python version
 ## Prerequisites
-* Python
+* Node js
 ## Installing
 
 ## Running
-Run the .py file eg. python [file name]
+Run the .js file eg. node [file name]
 ## Author
 * **Kelvin Mwangi**
