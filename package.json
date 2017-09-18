@@ -1,0 +1,18 @@
+{
+  "name": "IEBC-Analysis",
+  "version": "1.0.0",
+  "description": "Project on getting data from IEBC",
+  "main": "index.js",
+  "repository": "https://github.com/kelvin0722/IEBC-Analysis.git",
+  "author": "kelvin <kelvinm442@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dookie": "^0.2.0",
+    "dotenv": "^4.0.0",
+    "glob": "^7.1.2",
+    "graceful-fs": "^4.1.11",
+    "jsonfile": "^4.0.0",
+    "sync-request": "^4.1.0",
+    "xhr-request": "^1.0.1"
+  }
+}
