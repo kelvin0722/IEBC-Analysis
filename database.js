@@ -19,9 +19,6 @@ MongoClient.connect(connectionUrl, (err, db)=>{
     // here we are going to write code for file
     glob('./datafiles/BOJ_GET/*.json', (err, files) => {
     files.map(file => {
-    fs.readFile('DATA', 'utf8', (err, contents) => {
-    console.log(contents);
-   });
     let data = JSON.parse(fs.readFileSync(file, 'utf8'));
     console.log(data);
     var collection = db.collection('Candidate_Results');
