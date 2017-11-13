@@ -12,6 +12,7 @@
     "glob": "^7.1.2",
     "graceful-fs": "^4.1.11",
     "jsonfile": "^4.0.0",
+    "mongodb": "^2.2.33",
     "sync-request": "^4.1.0",
     "xhr-request": "^1.0.1"
   }
